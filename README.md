@@ -1,8 +1,5 @@
-## GPA (Grade Point Average) Application
-
-This is a sample application for finding the grade of student according to mark sheet.
+## HTML layout of todo list application
+This is only a layout using html and css. You can use this in any objectives.
 
 ### Screenshot
-
-![1](https://github.com/masudncse/react-gpa-calculator/blob/master/screenshot/1.jpg)!
-![2](https://github.com/masudncse/react-gpa-calculator/blob/master/screenshot/2.jpg)
+![1](https://github.com/masudncse/Todo-List-Html-Template/blob/master/screenshoot/1.png)
